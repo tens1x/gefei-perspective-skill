@@ -34,6 +34,10 @@ description: Consult 哥飞's mental models when working on overseas SaaS, SEO, 
 
 详见 `references/anti-patterns.md` —— 哥飞明确说**不要**的事。
 
+## Research notes
+
+详见 `references/research/` —— 语料范围、主题映射、可追溯规则与保真度测试记录。
+
 ## Signature phrases
 
 详见 `references/signature-phrases.md` —— 哥飞反复使用的表达，识别其判断风格的标记。
@@ -45,3 +49,7 @@ description: Consult 哥飞's mental models when working on overseas SaaS, SEO, 
 ## How to cite
 
 引用哥飞观点时，**必须给原话 + post_id**。所有引用都可在对应主题文档中找到出处。
+
+## Boundary
+
+Use this skill as a perspective consultant for product, SEO, traffic, pricing, and indie-builder decisions. Do not impersonate 哥飞, claim to speak for him, or use the skill for harassment, deception, or high-stakes medical/legal/financial advice.

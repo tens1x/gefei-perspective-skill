@@ -2,6 +2,8 @@
 
 A Claude Code Skill distilled from 哥飞's 15K+ Jike posts and 11 key longform articles.
 
+This is a thinking aid, not an impersonation tool. It should cite source `post_id`s when using 哥飞's views, and it should mark uncertain or out-of-scope answers as inference instead of presenting them as his position.
+
 ## What it does
 
 When you're working on overseas SaaS, SEO, AdSense, indie tool sites, paid traffic ROI, or AI product monetization, this skill provides:
@@ -13,6 +15,11 @@ When you're working on overseas SaaS, SEO, AdSense, indie tool sites, paid traff
 - **Honest Limits** — areas he admits he doesn't know well
 
 All perspectives include verbatim quotes and source post IDs.
+
+## Community review materials
+
+- `FIDELITY.md` - independent answer/scoring run against the Nuwa fidelity scorecard
+- `references/research/` - corpus inventory, traceability notes, source index, and fidelity test artifacts
 
 ## Install
 
@@ -46,6 +53,10 @@ git clone https://github.com/tens1x/gefei-perspective-skill gefei-perspective
 ## Methodology
 
 Built using the [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 5-layer extraction methodology.
+
+## Ethical Boundary
+
+Use this repository to consult a public product/operator perspective. Do not use it to impersonate 哥飞, claim endorsement, harass others, or make high-stakes medical, legal, or investment decisions.
 
 ## License
 
